@@ -1,0 +1,5 @@
+servo_driver.c:18:10:GET_PERIOD_VALUE	24	static
+servo_driver.c:32:6:SERVO_SET_POSITION	24	static
+servo_driver.c:47:6:SERVO_SET_POSITION_UP	24	static
+servo_driver.c:63:6:SERVO_SET_POSITION_DOWN	24	static
+servo_driver.c:82:6:SERVO_SET_NEUTRAL_POSITION	24	static

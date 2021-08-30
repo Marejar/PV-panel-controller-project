@@ -1,0 +1,21 @@
+PV panel controller project
+
+PINS AND PERIPHERIALS USED:
+
+GPIOA:
+PA0     ------> ADC1
+PA1     ------> ADC2
+PA4     ------> ADC3
+PB0     ------> ADC4
+
+SERVO:
+PC6     ------> SERVO 1 PWM (TIM3_CH1) HORIZONTAL
+PC8     ------> SERVO 2 PWM (TIM3_CH3) VERTICAL
+
+USART(FOR HC-05 COMMUNICATION):
+PA9     ------> USART TX
+PA10     ------> USART RX
+
+I2C1(FOR LCD COMMUNICATION):
+PB6     ------> USART TX
+PB7     ------> USART RX
